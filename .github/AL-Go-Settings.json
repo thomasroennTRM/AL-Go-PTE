@@ -1,0 +1,5 @@
+{
+  "$schema": "https://raw.githubusercontent.com/thomasroennTRM/AL-Go/Actions/ac6ce425acee3b740519104bb7b567e045c316a8/.Modules/settings.schema.json",
+  "type": "PTE",
+  "templateUrl": "https://github.com/thomasroennTRM/AL-Go-PTE@fail"
+}
